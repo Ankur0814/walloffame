@@ -1,2 +1,2 @@
-# walloffame
+# WallofFame
 download wallpaper
